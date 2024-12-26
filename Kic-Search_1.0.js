@@ -3,7 +3,7 @@
 // @namespace    https://www.kidsincinema.com/
 // @version      1.0
 // @description  在豆瓣和光影童年电影页面添加快速搜索功能，提取 IMDb 编号、中文名、英文名和年份，生成多个平台的快捷搜索链接，并修复特殊字符问题
-// @author       @shuizifan
+// @author       @shuizifan(&ChatGPT-4o)
 // @match        https://movie.douban.com/subject/*
 // @match        https://www.kidsincinema.com/forum/forum.php?mod=viewthread&tid=*
 // @grant        none
